@@ -2,7 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "jp.saat.pocketpass.dev",
-    "sha256_cert_fingerprints": ["C1:B6:73:66:75:E2:63:CB:36:99:CF:1D:6C:C7:67:1A:54:16:BC:2C:1F:1E:A1:AE:A7:CB:8D:95:67:10:33:F6"]
+    "package_name": "com.example.unilinksexample",
+    "sha256_cert_fingerprints":
+    ["C1:B6:73:66:75:E2:63:CB:36:99:CF:1D:6C:C7:67:1A:54:16:BC:2C:1F:1E:A1:AE:A7:CB:8D:95:67:10:33:F6"]
   }
 }]
